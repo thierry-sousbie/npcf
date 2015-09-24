@@ -1,4 +1,4 @@
-This program is designed to compute an approximation of the 2-points and 3-points correlation functions of point sets. It does so by using a double tree walk algorithm whose accuracy can be adjusted via an angular opening criterion.
+This small program can be used to compute an approximation of the 2-points and 3-points correlation functions of point sets. It does so by using a double tree walk algorithm whose accuracy can be adjusted via an angular opening criterion.
 
 I) Installing
 -------------
