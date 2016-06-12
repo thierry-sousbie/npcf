@@ -45,7 +45,7 @@ void Usage(char *fname)
 
   fprintf (stderr,"\n");
   fprintf (stderr,"           * '-dist2 <fname>' to compute intercorrelation between dist1 and dist2.\n");
-  fprintf (stderr,"             If dist2 is ommited, the autocorellation function of dist1 is computed.\n");
+  fprintf (stderr,"             If dist2 is omitted, the autocorellation function of dist1 is computed.\n");
   fprintf (stderr,"             If option '-LS' is also set, dist2 is considered as the random sample.\n");
   fprintf (stderr,"\n");
   fprintf (stderr,"           * '-LS' to use Landy-Szalay estimator (set dist2 to force a random sample).\n");
